@@ -1,0 +1,1 @@
+Domáce úlohy z Pythonu
